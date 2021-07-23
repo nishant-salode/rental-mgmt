@@ -1,0 +1,20 @@
+.App{
+  overflow: hidden;
+}
+.Item_item__3fX0_ .Submenu_submenu__hSAZ->ul{
+  color: black !important;
+}
+.Item_item__3fX0_:hover{
+  color:green !important;
+  background-color: yellow !important;
+}
+li.Item_item__3fX0_{
+  color: black !important;
+}
+.Dropdown_button__1mTG0{
+  background: inherit;
+  color: white;
+}
+.bg-dark{
+  background: #000000 !important;
+}

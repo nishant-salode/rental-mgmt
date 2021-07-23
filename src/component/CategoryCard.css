@@ -1,0 +1,30 @@
+button.MuiButtonBase-root.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-textSizeSmall.MuiButton-sizeSmall{
+    width: 100% !important;
+}
+
+.categoryCard__navigationIcon{
+    float: right;
+}
+.MuiCardActions-root {
+    padding: 8px 0;
+}
+.MuiPaper-root{
+    margin: 10px;
+}
+.MuiButtonBase-root{
+    background-color: #4d6dd4 !important;
+    color: white !important;
+    /* height: 40px !important; */
+    border-radius: 0 !important;
+}
+.MuiCardActions-spacing{
+    padding: 0 !important;
+}
+.MuiButton-label{
+    justify-content: unset !important;
+    display: block !important;
+    text-align: left !important ;
+}
+img{
+    width: inherit !important;
+}

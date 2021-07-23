@@ -1,0 +1,10 @@
+.header__container{
+    /* padding: 10px; */
+    height: 8vh;
+}
+.header__heading{
+    padding: 10px 42px;
+}
+.header__location{
+    text-align-last: right;
+}
