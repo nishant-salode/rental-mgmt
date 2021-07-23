@@ -15,6 +15,15 @@ li.Item_item__3fX0_{
   background: inherit;
   color: white;
 }
+.header__location button{
+  background: #000000 !important;
+  color: white !important;
+  border-radius: 0;
+}
+.header__location div{
+  background: white !important;
+  color: #000000 !important;
+}
 .bg-dark{
   background: #000000 !important;
 }
